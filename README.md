@@ -1,2 +1,2 @@
 # Apex-Triggers
-This repo is for pratice purpose regarding salesforce Apex Trigger </>
+This repo is for practice purpose regarding salesforce Apex Trigger </>
